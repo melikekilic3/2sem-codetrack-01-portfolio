@@ -1,5 +1,7 @@
 # Personal Portfolio Website
 
+hello
+
 A modern PHP-based portfolio website with a custom MVC architecture and admin dashboard.
 
 ## Overview
