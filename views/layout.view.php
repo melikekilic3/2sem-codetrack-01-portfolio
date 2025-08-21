@@ -9,7 +9,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php $this->section('title') ?> - My Portfolio</title>
+    <title><?php $this->section('title') ?> - Mit Portfolio</title>
     <link rel="icon" href="favicon.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -24,22 +24,22 @@
                     <ul>
                         <li>
                             <a href="/">
-                                Home
+                                Hjem
                             </a>
                         </li>
                         <li>
                             <a href="/about">
-                                About
+                                Om mig
                             </a>
                         </li>
                         <li>
                             <a href="/projects">
-                                Projects
+                                Projekter
                             </a>
                         </li>
                         <li>
                             <a href="/contact">
-                                Contact
+                                Kontakt
                             </a>
                         </li>
                     </ul>
@@ -64,7 +64,7 @@
                                         value="<?= htmlspecialchars($request->getCsrfToken()) ?>"
                                     >
                                     <button type="submit">
-                                        Logout
+                                        Log ud
                                     </button>
                                 </form>
                             </li>

@@ -8,7 +8,7 @@
 $this->extend('layout');
 ?>
 
-<?php $this->start('title', 'Login') ?>
+<?php $this->start('title', 'Log ind') ?>
 
 <section class="login-section">
     <div class="container">
